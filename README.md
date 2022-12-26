@@ -1,0 +1,1 @@
+An algorithm of how the coffe machine works in python.
